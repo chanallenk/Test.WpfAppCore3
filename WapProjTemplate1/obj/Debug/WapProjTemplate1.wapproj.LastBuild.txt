@@ -1,0 +1,17 @@
+C:\Users\Allen\source\repos\WpfAppCore3\WapProjTemplate1\Images\SplashScreen.scale-200.png
+C:\Users\Allen\source\repos\WpfAppCore3\WapProjTemplate1\Images\LockScreenLogo.scale-200.png
+C:\Users\Allen\source\repos\WpfAppCore3\WapProjTemplate1\Images\Square150x150Logo.scale-200.png
+C:\Users\Allen\source\repos\WpfAppCore3\WapProjTemplate1\Images\Square44x44Logo.scale-200.png
+C:\Users\Allen\source\repos\WpfAppCore3\WapProjTemplate1\Images\Square44x44Logo.targetsize-24_altform-unplated.png
+C:\Users\Allen\source\repos\WpfAppCore3\WapProjTemplate1\Images\StoreLogo.png
+C:\Users\Allen\source\repos\WpfAppCore3\WapProjTemplate1\Images\Wide310x150Logo.scale-200.png
+C:\Users\Allen\source\repos\WpfAppCore3\WapProjTemplate1\bin\AnyCPU\Debug\resources.pri
+C:\Users\Allen\.nuget\packages\microsoft.toolkit.wpf.ui.xamlhost\5.1.1\lib\net462\Microsoft.Toolkit.Wpf.UI.XamlHost.dll
+C:\Users\Allen\source\repos\WpfAppCore3\UWPClassLibrary1\bin\Debug\UWPClassLibrary1.dll
+C:\Users\Allen\source\repos\WpfAppCore3\UWPClassLibrary1\bin\Debug\UWPClassLibrary1.pdb
+C:\Users\Allen\source\repos\WpfAppCore3\UWPClassLibrary1\bin\Debug\UWPClassLibrary1.pri
+C:\Users\Allen\source\repos\WpfAppCore3\WpfAppCore3\obj\Debug\netcoreapp3.0\Msix\WpfAppCore3.deps.json
+C:\Users\Allen\source\repos\WpfAppCore3\WpfAppCore3\obj\Debug\netcoreapp3.0\WpfAppCore3.exe
+C:\Users\Allen\source\repos\WpfAppCore3\WpfAppCore3\bin\Debug\netcoreapp3.0\WpfAppCore3.runtimeconfig.json
+C:\Users\Allen\source\repos\WpfAppCore3\WpfAppCore3\bin\Debug\netcoreapp3.0\WpfAppCore3.dll
+C:\Users\Allen\source\repos\WpfAppCore3\WpfAppCore3\bin\Debug\netcoreapp3.0\WpfAppCore3.pdb

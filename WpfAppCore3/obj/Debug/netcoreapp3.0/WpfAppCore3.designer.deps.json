@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Microsoft.Toolkit.Wpf.UI.XamlHost/5.1.1": {
+        "runtime": {
+          "lib/net462/Microsoft.Toolkit.Wpf.UI.XamlHost.dll": {
+            "assemblyVersion": "5.1.0.0",
+            "fileVersion": "5.1.1.39"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.Toolkit.Wpf.UI.XamlHost/5.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TrWxcso8uZ8zL5QDApEIJnxNGsgUeZzcJ6qeEoihUd7wWA4JG3ZiI6a37Ha/KDjA0a97//qDY5soBJCCGS49tg==",
+      "path": "microsoft.toolkit.wpf.ui.xamlhost/5.1.1",
+      "hashPath": "microsoft.toolkit.wpf.ui.xamlhost.5.1.1.nupkg.sha512"
+    }
+  }
+}
